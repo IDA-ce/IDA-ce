@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ayda. ✦
 
-<!--
-**IDA-ce/IDA-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *I find beauty in complexity and elegance in simplicity.*
 
-Here are some ideas to get you started:
+I'm a Computer Engineer fascinated by the invisible logic behind the things we build and the systems we interact with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring the intersection of **computing, communication, and intelligence** — from the foundations of computer networks and software systems to the ideas shaping intelligent technologies.
+
+I'm drawn to understanding how things work beneath the surface, discovering patterns in complexity, and turning abstract ideas into meaningful solutions.
+
+I believe engineering is not just about making things work, but understanding **why they work.**
+
+---
+
+## Areas of Interest
+
+- Computer Networks & Telecommunications
+- Software Engineering & System Design
+- Algorithms & Computational Thinking
+- Machine Learning Foundations
+- Intelligent Systems
+
+## Currently
+
+Learning, experimenting, and building — one idea at a time.
+
+---
+
+<p align="center">
+  <i>Patterns don't lie.</i>
+  <br>
+  <sub>Always curious. Always exploring. Always building. ✦</sub>
+</p>
